@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - ghcr.io/aniket-devop/gitops-argocd-image-updater-demo:1.1.0
